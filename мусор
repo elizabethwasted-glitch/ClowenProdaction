@@ -1,0 +1,10 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+__MACOSX/
+*.log
+tmp/
+temp/
+*.bak
+*.autosave
